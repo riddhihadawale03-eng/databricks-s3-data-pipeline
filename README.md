@@ -1,9 +1,5 @@
-Yes. You can remove all the emojis/symbols from the headings and keep the README clean and professional.
 
-Copy this version:
-
-````markdown
-# Databricks S3 Data Pipeline
+## Databricks S3 Data Pipeline
 
 An end-to-end data consolidation and processing pipeline built using **Amazon S3, Databricks, PySpark, and SQL** to process and consolidate data from **Atlikon and SportsBar** for analysis and reporting.
 
