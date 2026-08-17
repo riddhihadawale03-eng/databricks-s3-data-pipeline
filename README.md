@@ -201,12 +201,6 @@ The combination of **Amazon S3, Databricks, PySpark, SQL, and Power BI** demonst
 
 No AWS access keys, passwords, authentication tokens, or other sensitive credentials are stored in this repository.
 
-## Author
-
-**Riddhi Hadawale**
-
-Computer Engineering | Data and Business Intelligence Enthusiast
-
 ### Technologies
 
 `Python` `SQL` `PySpark` `Databricks` `Amazon S3` `Power BI`
