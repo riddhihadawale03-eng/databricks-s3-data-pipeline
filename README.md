@@ -197,10 +197,6 @@ The project provides a structured pipeline for consolidating Atlikon and SportsB
 
 The combination of **Amazon S3, Databricks, PySpark, SQL, and Power BI** demonstrates an end-to-end workflow from cloud data storage and processing to business intelligence and visualization.
 
-## Security
-
-No AWS access keys, passwords, authentication tokens, or other sensitive credentials are stored in this repository.
-
 ### Technologies
 
 `Python` `SQL` `PySpark` `Databricks` `Amazon S3` `Power BI`
