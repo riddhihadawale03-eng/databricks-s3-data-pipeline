@@ -11,6 +11,12 @@ The pipeline is organized into multiple stages, including environment setup, dim
 
 The processed and consolidated data can then be used for **business analysis and dashboard reporting**.
 
+## Databricks Dashboard
+
+The project includes a Databricks dashboard for visualizing the processed and consolidated Atlikon and SportsBar data.
+
+[View Published Dashboard](https://dbc-bb945378-0785.cloud.databricks.com/dashboardsv3/01f199a2e26c196695a153aa4c55e02b/published?o=7474652565299455)
+
 ## Architecture
 
 ```text
